@@ -10,4 +10,4 @@
 # 怎么写
 使用对应的label提交issue即可
 
-（本仓库参照：https://github.com/tuna/collection）
+（本仓库参照自：https://github.com/tuna/collection）
