@@ -5,7 +5,7 @@
 进入issue查看
 
 - flag（想做的事情）：https://github.com/NEUMSC/collection/labels/flag
-- wantToKLearn（想学的东西）：https://github.com/NEUMSC/collection/labels/wantToLearn
+- wantToLearn（想学的东西）：https://github.com/NEUMSC/collection/labels/wantToLearn
 
 # 怎么写
 使用对应的label提交issue即可
