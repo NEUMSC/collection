@@ -1,4 +1,4 @@
-# collection
+# 集合
 收集一些关于 NEUMSC 的想法
 
 # 怎么看
